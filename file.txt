@@ -1,16 +1,5 @@
 [
     {
-        "id": 1,
-        "firstName": "Vernon",
-        "lastName": "Harper",
-        "email": "egestas.rhoncus.Proin@massaQuisqueporttitor.org",
-        "programme": "Financial Analysis",
-        "courses": [
-            "Accounting",
-            "Statistics"
-        ]
-    },
-    {
         "id": 2,
         "firstName": "Murphy",
         "lastName": "Holmes",
@@ -21,6 +10,17 @@
             "Statistics"
         ]
     },
+    {
+            "id": 1,
+            "firstName": "Vernon",
+            "lastName": "Harper",
+            "email": "egestas.rhoncus.Proin@massaQuisqueporttitor.org",
+            "programme": "Financial Analysis",
+            "courses": [
+                "Accounting",
+                "Statistics"
+            ]
+        },
     {
         "id": 3,
         "firstName": "Reece",

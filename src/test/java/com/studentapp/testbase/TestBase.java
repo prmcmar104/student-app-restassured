@@ -11,7 +11,7 @@ public class TestBase {
     @BeforeClass
     public void inIt() {
         RestAssured.baseURI = "http://localhost";
-        RestAssured.port = 8081;
+        RestAssured.port = 8080;
         RestAssured.basePath = "/student";
     }
 }
